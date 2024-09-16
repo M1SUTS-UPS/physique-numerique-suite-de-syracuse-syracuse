@@ -4,10 +4,12 @@
 
 La première étape est de cloner ce dépôt Git sur votre machine locale.
 
-Ouvrez un terminal et exécutez la commande suivante :
+D'abord on doit chercher le lien du depot git. Cliquez sur le bouton vert "code" et choissisez l'onglet "ssh". 
+
+Copier ce lien, ouvrez un terminal et exécutez la commande suivante :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-depot.git
+git clone <lien ssh vers le depot>
 ```
 
 Cela va télécharger tous les fichiers du dépôt sur votre ordinateur.
